@@ -182,6 +182,19 @@
     ],
     "sortorder" : -9
   },
+	
+{ "id": "timer",
+  "name": "My Timer",
+  "icon": "my-timer.png",
+  "description": "An Analog Clock",
+  "tags": "",
+  "type":"app",
+  "storage": [
+    {"name":"+timer","url":"my-timer.json"},
+    {"name":"-timer","url":"my-timer.js"},
+  ]
+},
+	
   { "id": "setting",
     "name": "Settings",
     "icon": "settings.png",
